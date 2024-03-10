@@ -1,26 +1,18 @@
-### Hi there 👋
+### Hi there, I'm SYuan03👋
+<div>
+  <a href="https://space.bilibili.com/1890244370/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <!-- visitor statistics logo 访问量统计徽标 -->
+  <img src="https://komarev.com/ghpvc/?username=SYuan03&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
 
-<!--
-**SYuan03/SYuan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>&nbsp;</div>
 
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently studying at NJUSE
-- 🤔 I’m looking for help with love and the meaning of lifetime
+- 🔭 I’m currently studying at _**NJUSE**_
+- 🤔 I’m looking for help with _**Love**_ and _**the Meaning of Life**_
 - 📫 How to reach me
-  - Blog: https://bblog.031105.xyz/
+  - _**My Blog**_ https://bblog.031105.xyz/
+  - _**My Email**_ tu3344606@gmail.com
 
-<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SYuan03&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="left"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SYuan03&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYuan03&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=SYuan03" /> </div>
