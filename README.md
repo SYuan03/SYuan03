@@ -30,4 +30,4 @@
 | chat.031105.xyz                  | [Link](https://chat.031105.xyz)     | llm4se.031105.xyz                 | [Link](https://llm4se.031105.xyz/) |
 | rsshub.xdingdang.eu.org          | [Link](https://rsshub.xdingdang.eu.org)     | tcs.031105.xyz                    | [Link](https://tcs.031105.xyz) |
 |2048.031105.xyz                   | [Link](http://2048.031105.xyz)             |
-> Some of these might still be a bit rough around the edges, as they are among my earlier projects QAQ😉
+> Some of these might still be a bit rough around the edges, as they are among my earlier projects QAQ
