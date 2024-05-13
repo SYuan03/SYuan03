@@ -21,20 +21,8 @@
 * I'm reading [Flowers for Algernon](https://book.douban.com/subject/26362836/)
 
 ### My site(Just for fun)
-[syding.njuse.icu](https://syding.njuse.icu)
-
-[prism.njuse.icu](https://prism.njuse.icu)
-
-[rsshub.xdingdang.eu.org](https://rsshub.xdingdang.eu.org)
-
-[csm.njuse.onflashdrive.app](https://csm.njuse.onflashdrive.app)
-
-[csm.xdingdang.eu.org](https://csm.xdingdang.eu.org)
-
-[tcs.031105.xyz](https://tcs.031105.xyz)
-
-[chat.031105.xyz](https://chat.031105.xyz)
-
-[llm4se.031105.xyz](https://llm4se.031105.xyz/)
-
-[2048.031105.xyz](http://2048.031105.xyz)
+Column 1	Column 2	Column 3
+syding.njuse.icu	rsshub.xdingdang.eu.org	tcs.031105.xyz
+prism.njuse.icu	csm.njuse.onflashdrive.app	chat.031105.xyz
+csm.xdingdang.eu.org	llm4se.031105.xyz
+2048.031105.xyz
