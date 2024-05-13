@@ -20,7 +20,7 @@
 ### Trace of my exsitence [2024]
 * I'm reading [Flowers for Algernon](https://book.douban.com/subject/26362836/)
 
-### My site(Just for fun)
+### My site (Just for fun)
 | Website                           | URL                                  | Website                           | URL                                  | Website                           | URL                                  |
 |----------------------------------|--------------------------------------|----------------------------------|--------------------------------------|----------------------------------|--------------------------------------|
 | syding.njuse.icu                 | [Link](https://syding.njuse.icu)     | prism.njuse.icu                   | [Link](https://prism.njuse.icu)     | rsshub.xdingdang.eu.org           | [Link](https://rsshub.xdingdang.eu.org)     |
