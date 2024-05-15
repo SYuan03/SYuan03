@@ -10,8 +10,8 @@
 - 🔭 I’m currently studying at _**NJUSE**_
 - 🤔 I’m looking for help with _**Love**_ and _**the Meaning of Life**_
 - 📫 How to reach me
-  - _**My Blog**_ https://bblog.031105.xyz
-  - _**My Email**_ tu3344606@gmail.com
+  - _**My Blog**_ https://bblog.031105.xyz | https://syding.njuse.icu
+  - _**My Email**_ sy.ding@smail.nju.edu.cn | syding1105@163.com
   - _**My Kee**_ https://kee.so/chrisding
 
 <!-- <div align="left"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SYuan03" /> </div> -->
