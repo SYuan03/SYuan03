@@ -23,11 +23,42 @@
 * I'm reading [Flowers for Algernon](https://book.douban.com/subject/26362836/)
 
 ### My site (Just for fun)
-| Website                           | URL                                  | Website                           | URL                                  |
-|----------------------------------|--------------------------------------|----------------------------------|--------------------------------------|
-| syding.njuse.icu                 | [Link](https://syding.njuse.icu)     | prism.njuse.icu                   | [Link](https://prism.njuse.icu)     |
-| csm.njuse.onflashdrive.app       | [Link](https://csm.njuse.onflashdrive.app) | csm.xdingdang.eu.org              | [Link](https://csm.xdingdang.eu.org) |
-| chat.031105.xyz                  | [Link](https://chat.031105.xyz)     | llm4se.031105.xyz                 | [Link](https://llm4se.031105.xyz/) |
-| rsshub.xdingdang.eu.org          | [Link](https://rsshub.xdingdang.eu.org)     | tcs.031105.xyz                    | [Link](https://tcs.031105.xyz) |
-|2048.031105.xyz                   | [Link](http://2048.031105.xyz)             |
+<table style="width:500px">
+  <tr>
+    <th style="width:25%">Website</th>
+    <th style="width:25%">URL</th>
+    <th style="width:25%">Website</th>
+    <th style="width:25%">URL</th>
+  </tr>
+  <tr>
+    <td>syding.njuse.icu</td>
+    <td><a href="https://syding.njuse.icu">Link</a></td>
+    <td>prism.njuse.icu</td>
+    <td><a href="https://prism.njuse.icu">Link</a></td>
+  </tr>
+  <tr>
+    <td>csm.njuse.onflashdrive.app</td>
+    <td><a href="https://csm.njuse.onflashdrive.app">Link</a></td>
+    <td>csm.xdingdang.eu.org</td>
+    <td><a href="https://csm.xdingdang.eu.org">Link</a></td>
+  </tr>
+  <tr>
+    <td>chat.031105.xyz</td>
+    <td><a href="https://chat.031105.xyz">Link</a></td>
+    <td>llm4se.031105.xyz</td>
+    <td><a href="https://llm4se.031105.xyz/">Link</a></td>
+  </tr>
+  <tr>
+    <td>rsshub.xdingdang.eu.org</td>
+    <td><a href="https://rsshub.xdingdang.eu.org">Link</a></td>
+    <td>tcs.031105.xyz</td>
+    <td><a href="https://tcs.031105.xyz">Link</a></td>
+  </tr>
+  <tr>
+    <td>2048.031105.xyz</td>
+    <td><a href="http://2048.031105.xyz">Link</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 > Some of these might still be a bit rough around the edges, as they are among my earlier projects QAQ
