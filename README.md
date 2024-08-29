@@ -23,8 +23,8 @@
 * I'm reading [Flowers for Algernon](https://book.douban.com/subject/26362836/)
 
 ### My site (Just for fun)
-| Website                            | URL                                   | Website                            | URL                                   |
-|------------------------------------|---------------------------------------|------------------------------------|---------------------------------------|
+| Website                              | URL                                     | Website                              | URL                                     |
+|--------------------------------------|-----------------------------------------|--------------------------------------|-----------------------------------------|
 | syding.njuse.icu                   | [Link](https://syding.njuse.icu)      | prism.njuse.icu                   | [Link](https://prism.njuse.icu)     |
 | csm.njuse.onflashdrive.app         | [Link](https://csm.njuse.onflashdrive.app) | csm.xdingdang.eu.org              | [Link](https://csm.xdingdang.eu.org) |
 | chat.031105.xyz                    | [Link](https://chat.031105.xyz)     | llm4se.031105.xyz                 | [Link](https://llm4se.031105.xyz/) |
