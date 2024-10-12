@@ -16,7 +16,7 @@
 
 <!-- <div align="left"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SYuan03" /> </div> -->
 <div align="left"> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SYuan03&show_icons=true&line_height=21&theme=tokyonight" /> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SYua03&show_icons=true&line_height=21&theme=tokyonight" /> 
 </div>
 
 ### Trace of my exsitence [2024]
