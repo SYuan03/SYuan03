@@ -23,11 +23,11 @@
 * I'm reading [Flowers for Algernon](https://book.douban.com/subject/26362836/)
 
 ### My site (Just for fun)
-| Website                              | URL                                     | Website                              | URL                                     |
+| Website                              | Info                                     | Website                              | URL                                     |
 |--------------------------------------|-----------------------------------------|--------------------------------------|-----------------------------------------|
 | syding.njuse.icu                   | [Link](https://syding.njuse.icu)      | prism.njuse.icu                   | [Link](https://prism.njuse.icu)     |
 | csm.njuse.onflashdrive.app         | [Link](https://csm.njuse.onflashdrive.app) | csm.xdingdang.eu.org              | [Link](https://csm.xdingdang.eu.org) |
-| chat.031105.xyz                    | [Link](https://chat.031105.xyz)     | llm4se.031105.xyz                 | [Link](https://llm4se.031105.xyz/) |
+| chat.031105.xyz                    | [Link](https://chat.031105.xyz) [Demo Video](https://box.nju.edu.cn/lib/52c5fb3c-86c6-45e9-9b58-43695981bcdb/file/LLM4SE%E6%BC%94%E7%A4%BA_20240531_13505796.mp4)    | llm4se.031105.xyz                 | [Link](https://llm4se.031105.xyz/) |
 | rsshub.xdingdang.eu.org            | [Link](https://rsshub.xdingdang.eu.org)     | tcs.031105.xyz                    | [Link](https://tcs.031105.xyz) |
 |2048.031105.xyz                     | [Link](http://2048.031105.xyz)             |
 > Some of these might still be a bit rough around the edges, as they are among my earlier projects QAQ
