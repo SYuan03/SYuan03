@@ -27,7 +27,7 @@
 |--------------------------------------|-----------------------------------------|--------------------------------------|-----------------------------------------|
 | syding.njuse.icu                   | [Link](https://syding.njuse.icu)&nbsp;Personal blog      | prism.njuse.icu                   | [Link](https://prism.njuse.icu)&nbsp;An online demo of the Prism data visualization tool     |
 | csm.njuse.onflashdrive.app         | [Link](https://csm.njuse.onflashdrive.app)&nbsp;What to eat today? | csm.xdingdang.eu.org              | [Link](https://csm.xdingdang.eu.org)&nbsp;What to eat today? |
-| chat.031105.xyz                    | [Link](https://chat.031105.xyz)    | llm4se.031105.xyz                 | [Link](https://llm4se.031105.xyz/)&nbsp;[Demo Video](https://box.nju.edu.cn/lib/52c5fb3c-86c6-45e9-9b58-43695981bcdb/file/LLM4SE%E6%BC%94%E7%A4%BA_20240531_13505796.mp4)&nbsp;Large language models for software engineering |
+| chat.031105.xyz                    | [Link](https://chat.031105.xyz)    | llm4se.031105.xyz                 | [Link](https://llm4se.031105.xyz/)&nbsp;[Demo Video](https://box.nju.edu.cn/f/eb94c564a0ea4b048055/)&nbsp;Large language models for software engineering |
 | rsshub.xdingdang.eu.org            | [Link](https://rsshub.xdingdang.eu.org)&nbsp;An RSS aggregation platform tracking multiple sources     | tcs.031105.xyz                    | [Link](https://tcs.031105.xyz) |
 |2048.031105.xyz                     | [Link](http://2048.031105.xyz)&nbsp;A simple online 2048 game             |
 > Some of these might still be a bit rough around the edges, as they are among my earlier projects QAQ
