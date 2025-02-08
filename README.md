@@ -9,6 +9,7 @@
 
 - 🔭 I’m currently studying at _**NJUSE**_
 - 🤔 I’m looking for help with _**Love**_ and _**the Meaning of Life**_
+- 🤞 I'm currently looking for collaborations, feel free to contact me.
 - 📫 How to reach me
   - _**My Blog**_ https://bblog.031105.xyz | https://syding.njuse.icu
   - _**My Email**_ sy.ding@smail.nju.edu.cn | syding1105@163.com
