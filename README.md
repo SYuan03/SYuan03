@@ -12,7 +12,7 @@
 - 🤞 I'm currently looking for _**collaborations**_, feel free to contact me
 - 📫 How to reach me
   - _**My Blog**_ [chrisding.me](https://chrisding.me) or [bblog.031105.xyz](https://bblog.031105.xyz)
-  - _**My Email**_ sy.ding@smail.nju.edu.cn | syding1105@163.com
+  - _**My Email**_ sy.ding@smail.nju.edu.cn or syding1105@163.com
   - _**My Kee**_ https://kee.so/chrisding
 
 <!-- <div align="left"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SYuan03" /> </div> -->
