@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with _**Love**_ and _**the Meaning of Life**_
 - 🤞 I'm currently looking for _**collaborations**_, feel free to contact me
 - 📫 How to reach me
-  - _**My Blog**_ https://bblog.031105.xyz | https://syding.njuse.icu
+  - _**My Blog**_ [chrisding.me](https://chrisding.me) or [bblog.031105.xyz](https://bblog.031105.xyz)
   - _**My Email**_ sy.ding@smail.nju.edu.cn | syding1105@163.com
   - _**My Kee**_ https://kee.so/chrisding
 
