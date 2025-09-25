@@ -7,8 +7,6 @@
 
 <div>&nbsp;</div>
 
-- 🔭 I’m currently studying at _**NJUSE**_
-- 🤔 I’m looking for help with _**Love**_ and _**the Meaning of Life**_
 - 🤞 I'm currently looking for _**collaborations**_, feel free to contact me
 - 📫 How to reach me
   - _**My Blog**_ [chrisding.me](https://chrisding.me) or [bblog.031105.xyz](https://bblog.031105.xyz)
@@ -19,9 +17,6 @@
 <div align="left"> 
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SYuan03&show_icons=true&line_height=22&theme=tokyonight" /> 
 </div>
-
-### Trace of my exsitence [2024]
-* I'm reading [Flowers for Algernon](https://book.douban.com/subject/26362836/)
 
 ### My site (Just for fun)
 | Website                              | Info                                     | Website                              | URL                                     |
