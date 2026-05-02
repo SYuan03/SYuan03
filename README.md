@@ -17,10 +17,34 @@ I study how to make AI systems (LLMs, VLMs, and agents) reliable and aligned, wi
 
 **Open-source & Activity**
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SYuan03&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- <p align="left"> -->
+  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=SYuan03&show_icons=true&theme=tokyonight&hide_border=true" /> -->
   <!-- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYuan03&layout=compact&theme=tokyonight&hide_border=true" /> -->
+  <!-- <img src="https://raw.githubusercontent.com/SYuan03/SYuan03/main/profile-summary-card-output/tokyonight/0-profile-details.svg" /> -->
+<!-- </p> -->
+
+<!-- <p align="left">
+  <img src="https://raw.githubusercontent.com/SYuan03/SYuan03/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p> -->
+
+<!-- <p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SYuan03&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+</p> -->
+
+<p align="left">
+  <img width="40%" src="https://raw.githubusercontent.com/SYuan03/SYuan03/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img width="40%" src="https://raw.githubusercontent.com/SYuan03/SYuan03/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
+
+<!-- <p align="left">
+  <img width="40%" src="https://raw.githubusercontent.com/SYuan03/SYuan03/main/profile-summary-card-output/github/3-stats.svg" />
+  <img width="40%" src="https://raw.githubusercontent.com/SYuan03/SYuan03/main/profile-summary-card-output/github/4-productive-time.svg" />
+</p> -->
+
+<!-- <p align="left">
+  <img width="40%" src="https://raw.githubusercontent.com/SYuan03/SYuan03/main/profile-summary-card-output/vue/3-stats.svg" />
+  <img width="40%" src="https://raw.githubusercontent.com/SYuan03/SYuan03/main/profile-summary-card-output/vue/4-productive-time.svg" />
+</p> -->
 
 **Contact**
 
